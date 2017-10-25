@@ -1,5 +1,4 @@
-Document Clustering with Python
-================
+# Document Clustering with Python!
 
 <img src='header_short.jpg'>
 
